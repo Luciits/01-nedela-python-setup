@@ -1,0 +1,8 @@
+print("Sveicināts veikalā!")
+print("Vai vēlaties redzēt mūsu piedāvājumu?")
+print("Mēs piedāvājam dažādus produktus un pakalpojumus.")
+print("Lūdzu, izvēlieties kategoriju, lai redzētu mūsu piedāvājumu.")
+print("1. Elektronika")
+print("2. Apģērbs")
+print("3. Mēbeles")
+print("Lūdzu, ievadiet izvēlēto kategoriju (1, 2 vai 3):")
